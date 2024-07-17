@@ -1,3 +1,6 @@
+Please do not use this project. It's under development
+======================================================
+
 # Win cmd lib
 windows command line util library
  
